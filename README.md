@@ -19,12 +19,16 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityajha25)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityajha25)
+![Profile Views](https://komarev.com/ghpvc/?username=adityajha25&color=blueviolet&style=for-the-badge)
+
+<div align="center">
 
 ## 💻 Tech Stack
+<div align="left">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,9 +63,6 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 🎨 GitHub Profile Summary
-
-<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityajha25&theme=radical)
 
@@ -70,8 +71,3 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 
 </div>
   
-![Profile Views](https://komarev.com/ghpvc/?username=adityajha25&color=blueviolet&style=for-the-badge)
-
-### 💡 *Always learning, always building*
-
-</div>
