@@ -40,24 +40,35 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Cloud & Backend
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+## 🏆 Featured Projects
+
+### 🎓 [South Windsor High School Science Olympiad Website](https://github.com/swhsscioly/swhsscioly.github.io)
+Official website for the SWHS Science Olympiad team, providing resources and information for team members and competitors.
+
+### 🎨 [CAD Software](https://github.com/Gautam9981/CAD)
+A comprehensive CAD application featuring both CLI and GUI tools for computer-aided design work.
+
+### 🌌 [Astronomy Source Manager](https://github.com/South-Windsor-High-School-Scioly/Astronomy)
+JavaScript web application designed to help Science Olympiad competitors manage and study astronomy sources efficiently.
 
 ## 📈 Contribution Graph
 
 [![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityajha25&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityajha25&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## 📫 Connect With Me
 
