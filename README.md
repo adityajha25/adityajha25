@@ -17,50 +17,12 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 - 🚀 Contributing to Science Olympiad educational resources
 - 💡 Always learning new technologies and best practices
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajha25&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajha25&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha25&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityajha25)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityajha25)
-
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=adityajha25&theme=radical&hide_border=true&layout=compact)](https://wakatime.com/@adityajha25)
-
-</div>
-
-## 🃏 Random Dev Joke
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/adityajha25/adityajha25/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ## 💻 Tech Stack
 
@@ -107,18 +69,6 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityajha25&theme=radical)
 
 </div>
-
-## 🗓️ 3D Contribution Calendar
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=adityajha25&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=adityajha25&color=blueviolet&style=for-the-badge)
 
