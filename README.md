@@ -24,10 +24,12 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityajha25)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityajha25)
 ![Profile Views](https://komarev.com/ghpvc/?username=adityajha25&color=blueviolet&style=for-the-badge)
+</div>
 
 <div align="center">
 
 ## 💻 Tech Stack
+</div>
 <div align="left">
 
 ### Languages
