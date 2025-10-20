@@ -29,12 +29,47 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 
 </div>
 
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityajha25)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityajha25)
+
+</div>
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=adityajha25&theme=radical&hide_border=true&layout=compact)](https://wakatime.com/@adityajha25)
+
+</div>
+
+## 🃏 Random Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/adityajha25/adityajha25/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## 💻 Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -42,6 +77,12 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Cloud & Backend
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -54,17 +95,24 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📈 Contribution Graph
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityajha25&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📫 Connect With Me
+## 🎨 GitHub Profile Summary
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityajha25)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityajha25)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityajha25&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityajha25&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityajha25&theme=radical)
+
+</div>
+
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=adityajha25&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
