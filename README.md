@@ -8,14 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a sophomore at **Georgia Institute of Technology** with a passion for building innovative mobile and full-stack web applications. I thrive at the intersection of technology and creativity, where I can transform ideas into impactful software solutions.
-
-- 📱 Building mobile and full-stack web applications
-- 🤖 Exploring AI/ML applications and integrations
-- 🔐 Passionate about cybersecurity and secure software development
-- 👥 Developing technical leadership skills through collaborative projects
-- 🚀 Contributing to Science Olympiad educational resources
-- 💡 Always learning new technologies and best practices
+I'm a sophomore at **Georgia Institute of Technology** with a passion for building innovative mobile and full-stack web applications. I thrive at the intersection of technology and leadership, where I can put innovative ideas into fruition. 
 
 ## 📫 Connect With Me
 
@@ -62,7 +55,6 @@ I'm a sophomore at **Georgia Institute of Technology** with a passion for buildi
 
 ### APIs & Integration
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
